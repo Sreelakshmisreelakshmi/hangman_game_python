@@ -3,7 +3,6 @@ import hangmanfig
 import wordlist
 print('WELCOME TO HANGMAN ')
 
-
 lives=6
 choosen = random.choice(wordlist.words)   
 display = []
